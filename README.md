@@ -4,7 +4,7 @@
 
 ## 单例设计模式
 
-![image]()
+![image](https://github.com/longxuewei/DesignPattern/blob/master/image/Single.png?raw=true)
 
     public class Demo{
     	private static Demo instance;
